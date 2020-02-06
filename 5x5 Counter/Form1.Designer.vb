@@ -68,7 +68,7 @@ Partial Class Form1
         '
         Me.Label2.BackColor = System.Drawing.Color.Firebrick
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label2.Location = New System.Drawing.Point(169, 24)
+        Me.Label2.Location = New System.Drawing.Point(144, 24)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(60, 60)
         Me.Label2.TabIndex = 1
@@ -78,7 +78,7 @@ Partial Class Form1
         '
         Me.Label3.BackColor = System.Drawing.Color.Firebrick
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label3.Location = New System.Drawing.Point(295, 24)
+        Me.Label3.Location = New System.Drawing.Point(244, 24)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(60, 60)
         Me.Label3.TabIndex = 2
@@ -88,7 +88,7 @@ Partial Class Form1
         '
         Me.Label4.BackColor = System.Drawing.Color.Firebrick
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label4.Location = New System.Drawing.Point(419, 24)
+        Me.Label4.Location = New System.Drawing.Point(345, 24)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(60, 60)
         Me.Label4.TabIndex = 3
@@ -98,7 +98,7 @@ Partial Class Form1
         '
         Me.Label5.BackColor = System.Drawing.Color.LightBlue
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label5.Location = New System.Drawing.Point(540, 24)
+        Me.Label5.Location = New System.Drawing.Point(446, 24)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(60, 60)
         Me.Label5.TabIndex = 4
@@ -108,7 +108,7 @@ Partial Class Form1
         '
         Me.Label6.BackColor = System.Drawing.Color.Firebrick
         Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label6.Location = New System.Drawing.Point(46, 140)
+        Me.Label6.Location = New System.Drawing.Point(46, 123)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(60, 60)
         Me.Label6.TabIndex = 5
@@ -118,7 +118,7 @@ Partial Class Form1
         '
         Me.Label7.BackColor = System.Drawing.Color.LightBlue
         Me.Label7.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label7.Location = New System.Drawing.Point(169, 140)
+        Me.Label7.Location = New System.Drawing.Point(144, 123)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(60, 60)
         Me.Label7.TabIndex = 6
@@ -128,7 +128,7 @@ Partial Class Form1
         '
         Me.Label8.BackColor = System.Drawing.Color.LightBlue
         Me.Label8.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label8.Location = New System.Drawing.Point(295, 140)
+        Me.Label8.Location = New System.Drawing.Point(244, 123)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(60, 60)
         Me.Label8.TabIndex = 7
@@ -138,7 +138,7 @@ Partial Class Form1
         '
         Me.Label9.BackColor = System.Drawing.Color.LightBlue
         Me.Label9.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label9.Location = New System.Drawing.Point(419, 140)
+        Me.Label9.Location = New System.Drawing.Point(345, 123)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(60, 60)
         Me.Label9.TabIndex = 8
@@ -148,7 +148,7 @@ Partial Class Form1
         '
         Me.Label10.BackColor = System.Drawing.Color.Firebrick
         Me.Label10.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label10.Location = New System.Drawing.Point(540, 140)
+        Me.Label10.Location = New System.Drawing.Point(446, 123)
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(60, 60)
         Me.Label10.TabIndex = 9
@@ -158,7 +158,7 @@ Partial Class Form1
         '
         Me.Label11.BackColor = System.Drawing.Color.Firebrick
         Me.Label11.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label11.Location = New System.Drawing.Point(46, 256)
+        Me.Label11.Location = New System.Drawing.Point(46, 224)
         Me.Label11.Name = "Label11"
         Me.Label11.Size = New System.Drawing.Size(60, 60)
         Me.Label11.TabIndex = 10
@@ -168,7 +168,7 @@ Partial Class Form1
         '
         Me.Label12.BackColor = System.Drawing.Color.LightBlue
         Me.Label12.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label12.Location = New System.Drawing.Point(169, 256)
+        Me.Label12.Location = New System.Drawing.Point(144, 224)
         Me.Label12.Name = "Label12"
         Me.Label12.Size = New System.Drawing.Size(60, 60)
         Me.Label12.TabIndex = 11
@@ -178,7 +178,7 @@ Partial Class Form1
         '
         Me.Label13.BackColor = System.Drawing.Color.LightBlue
         Me.Label13.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label13.Location = New System.Drawing.Point(295, 256)
+        Me.Label13.Location = New System.Drawing.Point(244, 224)
         Me.Label13.Name = "Label13"
         Me.Label13.Size = New System.Drawing.Size(60, 60)
         Me.Label13.TabIndex = 12
@@ -188,7 +188,7 @@ Partial Class Form1
         '
         Me.Label14.BackColor = System.Drawing.Color.LightBlue
         Me.Label14.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label14.Location = New System.Drawing.Point(419, 256)
+        Me.Label14.Location = New System.Drawing.Point(345, 224)
         Me.Label14.Name = "Label14"
         Me.Label14.Size = New System.Drawing.Size(60, 60)
         Me.Label14.TabIndex = 13
@@ -198,7 +198,7 @@ Partial Class Form1
         '
         Me.Label15.BackColor = System.Drawing.Color.Firebrick
         Me.Label15.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label15.Location = New System.Drawing.Point(540, 256)
+        Me.Label15.Location = New System.Drawing.Point(446, 224)
         Me.Label15.Name = "Label15"
         Me.Label15.Size = New System.Drawing.Size(60, 60)
         Me.Label15.TabIndex = 14
@@ -208,7 +208,7 @@ Partial Class Form1
         '
         Me.Label16.BackColor = System.Drawing.Color.Firebrick
         Me.Label16.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label16.Location = New System.Drawing.Point(46, 370)
+        Me.Label16.Location = New System.Drawing.Point(46, 325)
         Me.Label16.Name = "Label16"
         Me.Label16.Size = New System.Drawing.Size(60, 60)
         Me.Label16.TabIndex = 15
@@ -218,7 +218,7 @@ Partial Class Form1
         '
         Me.Label17.BackColor = System.Drawing.Color.LightBlue
         Me.Label17.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label17.Location = New System.Drawing.Point(169, 370)
+        Me.Label17.Location = New System.Drawing.Point(144, 325)
         Me.Label17.Name = "Label17"
         Me.Label17.Size = New System.Drawing.Size(60, 60)
         Me.Label17.TabIndex = 16
@@ -228,7 +228,7 @@ Partial Class Form1
         '
         Me.Label18.BackColor = System.Drawing.Color.LightBlue
         Me.Label18.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label18.Location = New System.Drawing.Point(295, 370)
+        Me.Label18.Location = New System.Drawing.Point(244, 325)
         Me.Label18.Name = "Label18"
         Me.Label18.Size = New System.Drawing.Size(60, 60)
         Me.Label18.TabIndex = 17
@@ -238,7 +238,7 @@ Partial Class Form1
         '
         Me.Label19.BackColor = System.Drawing.Color.LightBlue
         Me.Label19.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label19.Location = New System.Drawing.Point(419, 370)
+        Me.Label19.Location = New System.Drawing.Point(345, 325)
         Me.Label19.Name = "Label19"
         Me.Label19.Size = New System.Drawing.Size(60, 60)
         Me.Label19.TabIndex = 18
@@ -248,7 +248,7 @@ Partial Class Form1
         '
         Me.Label20.BackColor = System.Drawing.Color.Firebrick
         Me.Label20.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label20.Location = New System.Drawing.Point(540, 370)
+        Me.Label20.Location = New System.Drawing.Point(446, 325)
         Me.Label20.Name = "Label20"
         Me.Label20.Size = New System.Drawing.Size(60, 60)
         Me.Label20.TabIndex = 19
@@ -258,7 +258,7 @@ Partial Class Form1
         '
         Me.Label21.BackColor = System.Drawing.Color.LightBlue
         Me.Label21.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label21.Location = New System.Drawing.Point(46, 485)
+        Me.Label21.Location = New System.Drawing.Point(46, 426)
         Me.Label21.Name = "Label21"
         Me.Label21.Size = New System.Drawing.Size(60, 60)
         Me.Label21.TabIndex = 20
@@ -268,7 +268,7 @@ Partial Class Form1
         '
         Me.Label22.BackColor = System.Drawing.Color.Firebrick
         Me.Label22.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label22.Location = New System.Drawing.Point(169, 485)
+        Me.Label22.Location = New System.Drawing.Point(144, 426)
         Me.Label22.Name = "Label22"
         Me.Label22.Size = New System.Drawing.Size(60, 60)
         Me.Label22.TabIndex = 21
@@ -278,7 +278,7 @@ Partial Class Form1
         '
         Me.Label23.BackColor = System.Drawing.Color.Firebrick
         Me.Label23.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label23.Location = New System.Drawing.Point(295, 485)
+        Me.Label23.Location = New System.Drawing.Point(244, 426)
         Me.Label23.Name = "Label23"
         Me.Label23.Size = New System.Drawing.Size(60, 60)
         Me.Label23.TabIndex = 22
@@ -288,7 +288,7 @@ Partial Class Form1
         '
         Me.Label24.BackColor = System.Drawing.Color.Firebrick
         Me.Label24.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label24.Location = New System.Drawing.Point(419, 485)
+        Me.Label24.Location = New System.Drawing.Point(345, 426)
         Me.Label24.Name = "Label24"
         Me.Label24.Size = New System.Drawing.Size(60, 60)
         Me.Label24.TabIndex = 23
@@ -298,9 +298,9 @@ Partial Class Form1
         '
         Me.Label25.BackColor = System.Drawing.Color.LightBlue
         Me.Label25.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!)
-        Me.Label25.Location = New System.Drawing.Point(540, 485)
+        Me.Label25.Location = New System.Drawing.Point(446, 426)
         Me.Label25.Name = "Label25"
-        Me.Label25.Size = New System.Drawing.Size(60, 60)
+        Me.Label25.Size = New System.Drawing.Size(60, 59)
         Me.Label25.TabIndex = 24
         Me.Label25.Text = " "
         '
@@ -308,7 +308,7 @@ Partial Class Form1
         '
         Me.Button1.BackColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(87, 572)
+        Me.Button1.Location = New System.Drawing.Point(71, 507)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(133, 37)
         Me.Button1.TabIndex = 25
@@ -319,7 +319,7 @@ Partial Class Form1
         '
         Me.Button2.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(128, Byte), Integer))
         Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(412, 572)
+        Me.Button2.Location = New System.Drawing.Point(339, 507)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(133, 37)
         Me.Button2.TabIndex = 26
@@ -334,7 +334,7 @@ Partial Class Form1
         '
         Me.TimerLabel.AutoSize = True
         Me.TimerLabel.Font = New System.Drawing.Font("Microsoft Sans Serif", 1.0!)
-        Me.TimerLabel.Location = New System.Drawing.Point(308, 591)
+        Me.TimerLabel.Location = New System.Drawing.Point(308, 542)
         Me.TimerLabel.Name = "TimerLabel"
         Me.TimerLabel.Size = New System.Drawing.Size(3, 2)
         Me.TimerLabel.TabIndex = 27
@@ -345,7 +345,7 @@ Partial Class Form1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.PapayaWhip
-        Me.ClientSize = New System.Drawing.Size(653, 621)
+        Me.ClientSize = New System.Drawing.Size(564, 571)
         Me.Controls.Add(Me.TimerLabel)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
@@ -374,8 +374,12 @@ Partial Class Form1
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
+        Me.MaximizeBox = False
+        Me.MinimizeBox = False
         Me.Name = "Form1"
-        Me.Text = "`"
+        Me.ShowIcon = False
+        Me.Text = "5x5 Counter"
+        Me.TransparencyKey = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
