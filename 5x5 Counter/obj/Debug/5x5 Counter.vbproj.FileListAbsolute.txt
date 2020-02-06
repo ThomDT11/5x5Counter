@@ -1,1 +1,11 @@
 c:\users\user\documents\visual studio 2015\Projects\5x5 Counter\5x5 Counter\bin\Debug\5x5 Counter.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\5x5 Counter\5x5 Counter\bin\Debug\5x5 Counter.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\5x5 Counter\5x5 Counter\bin\Debug\5x5 Counter.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\5x5 Counter\5x5 Counter\bin\Debug\5x5 Counter.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\5x5 Counter\5x5 Counter\obj\Debug\5x5 Counter.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\5x5 Counter\5x5 Counter\obj\Debug\_5x5_Counter.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\5x5 Counter\5x5 Counter\obj\Debug\_5x5_Counter.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\5x5 Counter\5x5 Counter\obj\Debug\5x5 Counter.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\5x5 Counter\5x5 Counter\obj\Debug\5x5 Counter.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\5x5 Counter\5x5 Counter\obj\Debug\5x5 Counter.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\5x5 Counter\5x5 Counter\obj\Debug\5x5 Counter.pdb
